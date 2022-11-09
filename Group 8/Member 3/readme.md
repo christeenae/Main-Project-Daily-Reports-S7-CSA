@@ -40,9 +40,15 @@ Working on weekly report.
 Discussing with guide on different ways to implement and how to implement our project.
 
 ## Day 14
-working on weekly report also studying different papers.
+reading seminar papers on emotion recognition .
 
 ## Day 15
+working on weekly report .
+
+## Day 16
+also studying different papers.
+
+## Day 17
 Working on first review presentation. 
 
 
