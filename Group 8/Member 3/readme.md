@@ -27,19 +27,22 @@ Study and analysis of topic and research
 ## Day 9
 Research of videos for our project .
 
-## Day 10 19/10/22
+## Day 10
+Zeoth review presentation preparation and editing.
+
+## Day 11 19/10/22
 Zeroth review presentation.
 
-## Day 11
+## Day 12
 Working on weekly report.
 
-## Day 12
+## Day 13
 Discussing with guide on different ways to implement and how to implement our project.
 
-## Day 13
+## Day 14
 working on weekly report also studying different papers.
 
-## Day 14
+## Day 15
 Working on first review presentation. 
 
 
