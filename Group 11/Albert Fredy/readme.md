@@ -31,3 +31,22 @@
 
 - **Research for feasibility and relevance of the project**
      - Well researched for the feasibility and relevance of the topic in present time.
+ 
+ ## 25-10-2022
+
+- **Planned and look for topic change**
+     - Reseached the better topic than current one..
+     
+## 26-10-2022
+
+- ** Topic changed **
+     - Changed the topic to Automated Accident reporting and rescue operation..
+
+## 27-10-2022
+
+- **Researched the feasibility of project**
+     -  Researched ieee paper for the feasibility check..
+## 28-10-2022
+
+- **Lookup the existing systems based on project**
+     -  Checked the availbale system based on project..
