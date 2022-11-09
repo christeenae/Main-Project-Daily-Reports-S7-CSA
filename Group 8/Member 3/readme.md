@@ -7,28 +7,39 @@ group selection and discussion about the project .
 Group discussion on different topics to work.
 
 ## Day 3
-discussion with group members ,guide for topic selection.
+Discussion with group members ,guide for topic selection.
 
 ## Day 4
-finalising few topics for consideration.
+Finalising few topics for consideration.
 
 ## Day 5
-looking for more ideas.
+Working on weekly report.
 
-## Day 6 
-finalising on topic research .
+## Day 6
+Looking for more ideas.
 
 ## Day 7 
+Finalising on topic research .
+
+## Day 8 
 Study and analysis of topic and research
 
-## Day 8
+## Day 9
 Research of videos for our project .
 
-## Day 9 19/10/22
-zeroth review presentation.
-
-## Day 10
-discussing with guide on different ways to implement and how to implement our project.
+## Day 10 19/10/22
+Zeroth review presentation.
 
 ## Day 11
-working on weekly report.
+Working on weekly report.
+
+## Day 12
+Discussing with guide on different ways to implement and how to implement our project.
+
+## Day 13
+working on weekly report also studying different papers.
+
+## Day 14
+Working on first review presentation. 
+
+
