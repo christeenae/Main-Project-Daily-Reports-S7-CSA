@@ -1,10 +1,10 @@
 # MEMBER 3 - CHRISTEENA EDISON 
 
 ## Day 1
-Topic conformation and discussion to finalise group project idea.
+group selection and discussion about the project .
 
 ## Day 2
-Searching internet for different ideas.
+Group discussion on different topics to work.
 
 ##Day 3
 discussion with group members ,guide for topic selection.
