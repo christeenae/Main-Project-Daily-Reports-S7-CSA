@@ -15,17 +15,20 @@ finalising few topics for consideration.
 ## Day 5
 looking for more ideas.
 
-## Day 6 16/10/22
-finalising on topic .
+## Day 6 
+finalising on topic research .
 
-## Day 7 17/10/22
-making presentation for zeroth review.
+## Day 7 
+Study and analysis of topic and research
 
-## Day 8 19/10/22
+## Day 8
+Research of videos for our project .
+
+## Day 9 19/10/22
 zeroth review presentation.
 
-## Day 9 20/10/22
-discussing with guide on different ways to impplement and how to implement our project.
+## Day 10
+discussing with guide on different ways to implement and how to implement our project.
 
-## Day 10 21/10/22
+## Day 11
 working on weekly report.
